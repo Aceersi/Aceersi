@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm Aceersi from LocalHost<br><br>- 🔭 I’m working as BackEnd Developer<br>- ⚡ In my free time i love playing !</p>
+<p align="left">I'm Aceersi.<br><br>- 🔭 I’m working as BackEnd Developer<br>- ⚡ In my free time i love crack/modding !</p>
 
 ###
 
