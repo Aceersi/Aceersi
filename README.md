@@ -39,10 +39,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   ... </h3>
-
-If a computer understand bytecode, then he know how to convert..
-
-###
