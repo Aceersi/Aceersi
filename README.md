@@ -12,7 +12,7 @@
 ###
 
 <p align="left">I'm Aceersi.<br><br>- 🔭 I’m working as BackEnd Developer<br>- ⚡ In my free time i love crack/modding !</p>
-i Am Working on aa lunar client crack !
+i Am Working on a lunar client crack !
 
 Contact me on : aceersibuisness@outlook.com.
 
